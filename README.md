@@ -28,7 +28,7 @@ A little about myself:
 Sou João Pedro Ribeiro, tenho 23 anos, sou amante e estudante de tecnologia.
 
 Um pouco sobre mim:
-* 🔭 Atualmente estou trabalhando como Backend Developer Junior na <a href="https://www.raizen.com.br" target="_Blank">Raizen</a>.
+* 🔭 Atualmente estou trabalhando como Backend Developer na <a href="https://www.raizen.com.br" target="_Blank">Raizen</a>.
 * 💻 Estou constantemente aprimorando minhas habilidades em **JavaScript, com foco em Node.js e TypeScript**, além de expandir meus conhecimentos em computação em nuvem com a AWS, onde tenho trabalhado com serviços como **Lambda, Athena e S3**.
 * 📚 Me identifico como um desenvolvedor motivado, com uma paixão constante por aprender e uma tendência para pensar fora da caixa.
 * 📫 Para entrar em contato comigo é fácil, só me mandar um e-mail [✉ contato@joaoribeiro.dev] ou me mandar mensagem no Linkedin!
